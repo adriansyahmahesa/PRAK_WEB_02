@@ -1,0 +1,87 @@
+h1 {
+    font-size:50px;
+    color: black;
+    font-family: "Lucida", cursive;
+    text-align: center;
+}
+
+hr {
+    height: 10;
+    width: 700;
+    background-color: black;
+}
+
+body {
+    background-image: url('8.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+table {
+    width: 1288;
+    align:center;
+    cellpadding="10";
+}
+
+nav a{
+    font-size:20px;
+    color: black;
+    font-family: Tahoma;
+    font-style: italic;
+    text-align: center;
+    text-decoration: none;
+}
+
+image {
+    width: 200;
+}
+
+.image2 {
+    width: 500;
+}
+
+.text1 {
+    font-size:40px;
+    color: black;
+    font-family: "Times New Roman";
+    text-align: center;
+}
+
+.text2 {
+    font-size:25px;
+    color: black;
+    font-family: "Arial";
+}
+
+.text3 {
+    font-size:30px;
+    color: black;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.text4 {
+    font-size:20px;
+    color: black;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.text5 {
+    font-size:15px;
+    color: black;
+    font-family: "Arial";
+    text-align: center;
+}
+
+
+.paragraf {
+    font-size:15px;
+    color: black;
+    font-family: "Arial";
+    text-align:justify;
+    width: 75%;
+    background-color: white;
+    padding: 10px;
+}
